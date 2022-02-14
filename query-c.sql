@@ -1,0 +1,1 @@
+select * from pollution_db where Date Time >='2010-01-01' |Date Time <='2019-12-31'

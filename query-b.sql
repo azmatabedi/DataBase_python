@@ -1,0 +1,1 @@
+select AVG(PM2.5),AVG(VPM2.5) from pollution_db group by SiteID
